@@ -1,0 +1,9 @@
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\bin\Release\Speakers.dll
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\bin\Release\Speakers.pdb
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\bin\Release\Xamarin.Forms.Core.dll
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\bin\Release\Xamarin.Forms.Xaml.dll
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\bin\Release\Xamarin.Forms.Core.xml
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\bin\Release\Xamarin.Forms.Xaml.xml
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\obj\Release\SpeakersView.xaml.g.cs
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\obj\Release\Speakers.dll
+C:\TechEd2014\Code\live\1\Speakers\Speakers\Speakers\obj\Release\Speakers.pdb

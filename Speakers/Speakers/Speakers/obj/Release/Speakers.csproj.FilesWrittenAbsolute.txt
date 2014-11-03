@@ -1,0 +1,9 @@
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/obj/Release/Speakers.Views.SpeakersView.xaml
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/obj/Release/SpeakersView.xaml.g.cs
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/bin/Release/Speakers.dll.mdb
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/bin/Release/Speakers.dll
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/obj/Release/Speakers.dll
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/obj/Release/Speakers.dll.mdb
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/bin/Release/Xamarin.Forms.Core.dll
+/Users/atucker/Documents/TechEd2014/live/1/Speakers/Speakers/Speakers/bin/Release/Xamarin.Forms.Xaml.dll
